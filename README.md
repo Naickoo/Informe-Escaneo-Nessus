@@ -142,7 +142,7 @@ El análisis de Metasploitable reveló múltiples vulnerabilidades críticas y d
 ## Anexos
 
 ### Capturas de Pantalla
-- Resultados de Nessus: [Ver capturas](#)
+- Resultados de Nessus: [Ver capturas](https://github.com/Naickoo/Informe-Escaneo-Nessus/tree/main/Escaneo%20con%20nessus)
 
 ### Enlaces de Instalación y Documentación de Nessus
 - **Instalación de Nessus Essentials**: [Guía de instalación](https://es-la.tenable.com/products/nessus/nessus-essentials)
